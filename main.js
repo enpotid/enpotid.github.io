@@ -1,3 +1,1 @@
-function showRustImage() {
-    window.location.href = "rust-image.html";
-}
+console.log("hello world?");
